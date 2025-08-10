@@ -57,8 +57,8 @@ The project showcases **data cleaning**, **data modeling**, **dynamic dashboards
 
 ## 🧑‍💻 Author
 
-**B.H.Pranav gupta**
-Data Analyst | Data Science Enthusiast
+**B.H.Pranav Gupta**
+ | Data Analyst | Business Intelligence Enthusiast | Data Science Enthusiast
 
 ---
 
